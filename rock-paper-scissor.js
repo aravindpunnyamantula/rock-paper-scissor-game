@@ -53,7 +53,7 @@ else if(computerMove === 'Paper')
 {
   result = 'You Win';
 }
-else if(computerMove === 'Scissor')
+else if(computerMove === 'scissor')
 {
 result = 'Tie';
 }
@@ -70,7 +70,7 @@ else if(computerMove === 'Paper')
 {
   result = 'Tie';
 }
-else if(computerMove === 'Scissor')
+else if(computerMove === 'scissor')
 {
 result = 'You Lose';
 }
@@ -86,7 +86,7 @@ else if(computerMove === 'Paper')
 {
   result = 'You Win';
 }
-else if(computerMove === 'Scissor')
+else if(computerMove === 'scissor')
 {
 result = 'You Lose';
 }
